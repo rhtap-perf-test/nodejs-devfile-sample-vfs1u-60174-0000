@@ -9,6 +9,7 @@
     "test": "node test/test.js"
   },
   "dependencies": {
+    "@redhat-developer/red-hat-developer-hub-theme": "^0.0.33",
     "express": "^4.18.1",
     "pino": "^8.5.0",
     "pino-http": "^8.2.0",
