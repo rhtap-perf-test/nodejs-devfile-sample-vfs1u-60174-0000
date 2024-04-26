@@ -19,6 +19,7 @@
     "@redhat-developer/rhsm-client": "^0.0.4",
     "@redhat-developer/vscode-extension-proposals": "^0.0.22",
     "@redhat-developer/vscode-redhat-telemetry": "^0.7.1",
+    "@redhat-developer/vscode-wizard": "^0.3.1",
     "express": "^4.18.1",
     "pino": "^8.5.0",
     "pino-http": "^8.2.0",
