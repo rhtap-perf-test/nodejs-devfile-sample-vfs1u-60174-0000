@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@redhat-developer/red-hat-developer-hub-theme": "^0.0.33",
+    "@redhat-developer/rhcra-client": "^0.0.1",
     "@redhat-developer/vscode-redhat-telemetry": "^0.7.1",
     "express": "^4.18.1",
     "pino": "^8.5.0",
