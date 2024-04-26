@@ -13,6 +13,7 @@
     "@redhat-developer/kiota-wasm": "^0.0.2",
     "@redhat-developer/page-objects": "^1.1.0",
     "@redhat-developer/red-hat-developer-hub-theme": "^0.0.33",
+    "@redhat-developer/rhaccm-client": "^0.0.1",
     "@redhat-developer/rhcra-client": "^0.0.1",
     "@redhat-developer/rhsm-client": "^0.0.4",
     "@redhat-developer/vscode-extension-proposals": "^0.0.22",
